@@ -1,0 +1,4 @@
+ics_platform.db
+ics_platform.db-*
+__pycache__/
+*.pyc
